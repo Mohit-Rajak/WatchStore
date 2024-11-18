@@ -1,4 +1,4 @@
-#Online Watch Store
+# Online Watch Store
 
 This Online Watch Store is a fully functional e-commerce website designed to showcase and sell a variety of watches to customers. Built with HTML, CSS, and JavaScript, this project provides a seamless and user-friendly shopping experience.
 
